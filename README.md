@@ -2,23 +2,22 @@
   <b><span>🔴 🟡 🟢</span></b>
 </div>
 
-<!-- 🌟 GIF Banner -->
-<p align="center">
-  <img src="https://github.com/Nehaadak/Nehaadak/blob/main/a11cc13c3fe228b54453eac7fc88c76d-ezgif.com-video-to-gif-converter.gif?raw=true" alt="Neha Adak Animated Banner" width="350" />
-</p>
+<div align="center">
+  <img src="https://github.com/Nehaadak/Nehaadak/blob/main/a11cc13c3fe228b54453eac7fc88c76d-ezgif.com-video-to-gif-converter.gif?raw=true" alt="Neha Adak Animated Banner" width="250" />
+</div>
 
-<!-- ✨ Typing SVG -->
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2CF739&width=600&height=55&lines=%24+++++++++%F0%9F%91%8B+Hi+there%2C+I'm+Neha+Adak!+%E2%9C%A8%F0%9F%8C%B8" alt="Typing SVG" />
   </a>
 </div>
 
-# 👩‍💻 About Me
+# 👩‍💻 DevOps Engineer | Cloud Enthusiast
 
-💻 **DevOps Engineer | Cloud Enthusiast**
+---
 
-I'm a passionate and detail-oriented DevOps Engineer with a strong interest in cloud computing and scalable infrastructure. I enjoy building efficient CI/CD pipelines, automating workflows, and exploring cutting-edge tech tools.
+🌟 Welcome to my GitHub profile!  
+I'm a passionate and detail-oriented DevOps Engineer with foundational web development experience. I enjoy building scalable infrastructures, automating processes, and crafting efficient deployment pipelines. Outside tech, I'm always exploring new tools that improve productivity and collaboration.
 
 ---
 
@@ -81,6 +80,6 @@ I'm a passionate and detail-oriented DevOps Engineer with a strong interest in c
 > _“Consistency is more important than intensity.”_ ✨
 
 <p align="center">
-  <em>Made with ❤️ by Neha Adak</em><br>
-  <img src="https://komarev.com/ghpvc/?username=Nehaadak&style=flat-square&color=brightgreen" alt="Profile views" />
+  <em>Made with ❤️ by Neha Adak</em><br/>
+  <img src="https://komarev.com/ghpvc/?username=Nehaadak&label=Profile%20views&color=brightgreen" alt="profile views" />
 </p>
