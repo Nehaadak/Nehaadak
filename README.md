@@ -3,83 +3,83 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/Nehaadak/Nehaadak/blob/main/a11cc13c3fe228b54453eac7fc88c76d-ezgif.com-video-to-gif-converter.gif?raw=true" alt="Neha Adak Animated Banner" width="250" />
+  <img src="https://github.com/Nehaadak/Nehaadak/blob/main/a11cc13c3fe228b54453eac7fc88c76d-ezgif.com-video-to-gif-converter.gif?raw=true" alt="Animated Banner" width="250" />
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2CF739&width=600&height=55&lines=%24+++++++++%F0%9F%91%8B+Hi+there%2C+I'm+Neha+Adak!+%E2%9C%A8%F0%9F%8C%B8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F39AC3&width=600&height=55&lines=%E2%9C%A8+Hi+there%2C+I'm+Neha+Adak!+%F0%9F%8C%B8" alt="Typing SVG" />
   </a>
 </div>
 
-# 👩‍💻 DevOps Engineer | Cloud Enthusiast
+---
+
+# 🌷 About Me
+
+Hey there! I'm **Neha**, a passionate and vibrant **DevOps Engineer** who’s deeply in love with cloud technologies ☁️, automation 🔄, and clean, scalable systems.  
+I bring a touch of creativity into everything I build and believe tech is even more fun when it’s beautiful and empowering 💖.
 
 ---
 
-🌟 Welcome to my GitHub profile!  
-I'm a passionate and detail-oriented DevOps Engineer with foundational web development experience. I enjoy building scalable infrastructures, automating processes, and crafting efficient deployment pipelines. Outside tech, I'm always exploring new tools that improve productivity and collaboration.
+## 💻 Tech Toolbox
+
+### 💡 Languages & Web
+- 🌈 HTML5, CSS3  
+- 🐍 Python  
+- 💻 C  
+
+### ☁️ DevOps & Infra
+- 💫 AWS (EC2, Lambda, S3, CloudWatch)  
+- 🐳 Docker & Kubernetes  
+- 🐧 Linux, Bash  
+- 🖥️ Virtualization Tools  
+
+### 🎨 Tools & UI
+- 🌸 Git & GitHub  
+- 🎨 Figma, Canva  
+- 🧪 Postman, VS Code  
 
 ---
 
-## 🛠️ Tech Stack
-
-### 🚀 Languages & Frameworks
-- HTML5, CSS3  
-- Python  
-- C  
-
-### ☁️ DevOps & Cloud
-- AWS (EC2, S3, Lambda, CloudWatch, etc.)  
-- Docker & Kubernetes  
-- Linux, Bash Scripting  
-- Virtual Machines  
-
-### 🧰 Tools & Platforms
-- Git & GitHub  
-- Figma, Canva  
-- VS Code, Postman  
-
----
-
-## 📈 GitHub Stats
+## 🌟 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nehaadak&show_icons=true&theme=tokyonight" alt="Neha's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nehaadak&show_icons=true&theme=rose_pine" alt="Neha's GitHub Stats" />
 </p>
 
 ---
 
-## 📫 Let's Connect!
+## 🌸 Let’s Connect & Spark Joy!
 
 <p align="center">
   <a href="https://portfolio-neha-henna.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/My%20Portfolio-FF69B4?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/neha-adak-/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-B48ADB?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Nehaadak" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-6E44FF?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://wa.me/9122488021?text=Hi%20Neha%2C%20I%20saw%20your%20portfolio%20and%20wanted%20to%20connect." target="_blank">
+  <a href="https://wa.me/9122488021?text=Hey%20Neha!%20Just%20visited%20your%20profile%20and%20I%20love%20your%20vibe!💬" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🎯 Goals for 2025
+## 🎯 2025 Vision Board
 
-- 🧠 Deepen expertise in Docker & Kubernetes  
-- 🚀 Contribute to open-source DevOps projects  
-- ✍️ Publish technical blogs on CI/CD and cloud tooling  
-- 👩‍🏫 Mentor and support budding developers in DevOps  
+- 🌱 Grow in advanced Kubernetes & observability  
+- 🧚‍♀️ Share DevOps wisdom via open-source  
+- ✍️ Write blog posts with pretty diagrams & real magic  
+- 🌼 Uplift & mentor more amazing women in tech  
 
 ---
 
-> _“Consistency is more important than intensity.”_ ✨
+> _“She believed she could, so she did.”_ ✨
 
 <p align="center">
-  <em>Made with ❤️ by Neha Adak</em><br/>
-  <img src="https://komarev.com/ghpvc/?username=Nehaadak&label=Profile%20views&color=brightgreen" alt="profile views" />
+  <em>Crafted with 💖 by Neha Adak</em><br/>
+  <img src="https://komarev.com/ghpvc/?username=Nehaadak&label=Profile%20Views&color=FF69B4" alt="profile views" />
 </p>
