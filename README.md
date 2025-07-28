@@ -66,14 +66,12 @@ I bring a touch of creativity into everything I build and believe tech is even m
 
 ---
 
-## 🎯 2025 Vision Board
+## 🎯 Goals for 2025
 
-- 🌱 Grow in advanced Kubernetes & observability  
-- 🧚‍♀️ Share DevOps wisdom via open-source  
-- ✍️ Write blog posts with pretty diagrams & real magic  
-- 🌼 Uplift & mentor more amazing women in tech  
-
----
+- 🧠 Deepen expertise in Docker & Kubernetes  
+- 🚀 Contribute to open-source DevOps projects  
+- ✍️ Publish technical blogs on CI/CD and cloud tooling  
+- 👩‍🏫 Mentor and support budding developers in DevOps 
 
 > _“She believed she could, so she did.”_ ✨
 
