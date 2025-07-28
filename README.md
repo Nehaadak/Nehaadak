@@ -2,9 +2,7 @@
   <b><span>🔴 🟡 🟢</span></b>
 </div>
 
-<div align="center">
-  <img src="https://github.com/Nehaadak/Nehaadak/blob/main/a11cc13c3fe228b54453eac7fc88c76d-ezgif.com-video-to-gif-converter.gif?raw=true" alt="Animated Banner" width="250" />
-</div>
+
 
 <div align="center">
   <a href="https://git.io/typing-svg">
