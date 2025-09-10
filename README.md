@@ -2,11 +2,9 @@
   <b><span>🔴 🟡 🟢</span></b>
 </div>
 
-
-
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F39AC3&width=600&height=55&lines=%E2%9C%A8+Hi+there%2C+I'm+Neha+Adak!+%F0%9F%8C%B8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=E6E6FA&width=600&height=55&lines=%E2%9C%A8+Hi+there%2C+I'm+Neha+Adak!+%F0%9F%8C%B8" alt="Typing SVG" />
   </a>
 </div>
 
